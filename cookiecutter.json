@@ -1,0 +1,9 @@
+{
+    "author_name": "Ratson",
+    "author_email": "contact@ratson.name",
+
+    "package_name": "cookiecutter-pypackage",
+    "package_version": "0.0.0",
+    "package_description": "A cookiecutter for writing Python package",
+    "package_url": "https://github.com/ratson/cookiecutter-pypackage"
+}
